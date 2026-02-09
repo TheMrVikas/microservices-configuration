@@ -1,6 +1,6 @@
 #oracle configuration
   datasource:
-    url: jdbc:oracle:thin:@//localhost:1521/orcl-vikas
+    url: jdbc:oracle:thin:@//localhost:1521/orcl
     username: system
     password: manager
     driver-class-name: oracle.jdbc.OracleDriver
